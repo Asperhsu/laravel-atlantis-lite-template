@@ -1,3 +1,6 @@
+<p align="center"><img src="https://themekita.com/demo-atlantis-lite-bootstrap/assets/images/logo2.svg"></p>
+<p align="center"><a href="http://themekita.com/demo-atlantis-lite-bootstrap/">Atlantis Lite - Free Bootstrap 4 Admin Dashboard</a></p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
